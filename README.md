@@ -1,5 +1,7 @@
 # Forward-Interest-Rate-Calculator-ChineseVersion
 
+### Please view Chinese Instruction in ChineseReadme.pdf
+
 ### English 
 
 #### Instruction
